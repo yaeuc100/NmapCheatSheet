@@ -1,5 +1,6 @@
 # NmapCheatSheet
 this repo is solely for the purpose of education and should not be used for private reasons
+Please be sure to read the laws in your country before attempting to use Nmap or Zenmap
 
 
 # Target Selection

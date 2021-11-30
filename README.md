@@ -1,7 +1,8 @@
 # NmapCheatSheet
-this repo is solely for the purpose of education and should not be used for private reasons
-Please be sure to read the laws in your country before attempting to use Nmap or Zenmap
+this repo is solely for the purpose of education and should not be used for private reasons.
+Please be sure to read the laws in your country before attempting to use Nmap or Zenmap.
 
+Nmap (network mapper) is an open source software that is used to find vulnerabilities on a network by scanning through different ports.
 
 # Target Selection
 Scan a single IP:
